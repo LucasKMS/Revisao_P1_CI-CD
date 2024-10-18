@@ -25,3 +25,4 @@ app.listen(PORT, () => {
 
 console.log("Testando o Commit com a Branch feature!");
 console.log("Testando a hotfix!");
+console.log("Testando o payload!");
